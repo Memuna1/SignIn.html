@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(192, 232, 250);
+  }
+  div.d{
+      border:1px solid white;
+      margin-top: 150px;
+      margin-right: 150px;
+      margin-left: 1000px;
+      background-color: white;
+  }
+  div.c {
+    border:1px solid rgb(162, 196, 241);
+    margin-top: px;
+    margin-right: px;
+    margin-left: 1000px;
+    background-color:rgb(162, 196, 241);
+    
+  }
